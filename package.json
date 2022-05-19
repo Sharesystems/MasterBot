@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "name": "MasterBot",
   "version": "1.0.0",
+=======
+  "name": "masterbot",
+  "version": "1.2.4",
+>>>>>>> d8e3355b3cb18086b30ece2f7486d3753872ee92
   "description": "You don't know how I code my own Discord Bot. Here's a simple example!",
   "main": "index.js",
   "scripts": {
@@ -9,11 +14,19 @@
   "author": "Plexus",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "await": "^0.2.6",
+>>>>>>> d8e3355b3cb18086b30ece2f7486d3753872ee92
     "chalk": "^4.1.0",
     "discord.js": "12.5.3",
     "fetch": "^1.1.0",
     "fs": "^0.0.1-security",
     "node-fetch": "^2.6.1",
+<<<<<<< HEAD
+=======
+    "random": "^3.0.6",
+>>>>>>> d8e3355b3cb18086b30ece2f7486d3753872ee92
     "version": "^0.1.2",
     "ws": "^8.4.2"
   }

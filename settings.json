@@ -1,8 +1,19 @@
 {
+<<<<<<< HEAD
     "token": "Token here",
+=======
+    "token": "TOKEN",
+>>>>>>> d8e3355b3cb18086b30ece2f7486d3753872ee92
     "prefix": "!",
     "name": "Your Name",
     "status": "By Plexus",
     "theme": "#1214ff",
+<<<<<<< HEAD
     "profilpictureurl": "https://cdn.discordapp.com/attachments/937343599593529352/945728718737928212/Q-Bot.png"   
+=======
+    "profilpictureurl": "https://cdn.discordapp.com/avatars/857312828787392572/56c76c4a57e4c75a2609af943a35c67c.png",
+    "antilink": "false",
+    "antiinvite": "true",
+    "ownerID": "here"
+>>>>>>> d8e3355b3cb18086b30ece2f7486d3753872ee92
 }   
